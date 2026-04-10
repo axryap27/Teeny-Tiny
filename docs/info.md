@@ -13,7 +13,7 @@ Not sure yet
 
 ## How to test
 
-Not needed 
+GitHub Actions
 
 ## External hardware
 
